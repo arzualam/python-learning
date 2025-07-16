@@ -1,3 +1,5 @@
+# Use module so that computer can select Random Values
+
 import random
 
 computer_choice = random.choice(['rock', 'paper', 'scissor'])
