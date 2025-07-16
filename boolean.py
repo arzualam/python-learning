@@ -1,3 +1,4 @@
+# Use boolean in python
 raining = True
 
 if raining :
