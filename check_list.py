@@ -1,3 +1,5 @@
+# Read the list and verify if word is present in the list or not
+
 acronyms = ['LOL', 'IDK', 'SMH']
 word = 'BFN'
 
