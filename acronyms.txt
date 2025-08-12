@@ -1,0 +1,6 @@
+IDE -  Integratted Development Environment
+OOP - Object Oriented Programing
+UX - User Experience
+IaaS -  Infrastructure as a Service
+ML - Machine Learning
+LOL - Laugh out Loud
